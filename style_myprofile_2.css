@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #333;
+}
+
+.hero {
+    height: 100vh;
+    background: linear-gradient(
+        rgba(0,0,0,0.4),
+        rgba(0,0,0,0.4)
+    ),
+    url('https://i.pinimg.com/originals/08/7a/b7/087ab779ef05bb3d6ea12d52c2cefca1.gif');
+    background-size: cover;
+    background-position: center;
+}
+
+.overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 20px;
+}
+
+.content {
+    text-align: center;
+    color: white;
+    max-width: 600px;
+}
+
+h1 {
+    font-size: 42px;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 18px;
+    margin-bottom: 20px;
+    opacity: 0.8;
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    padding: 25px;
+    border-radius: 15px;
+    text-align: left;
+}
+
+ol {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+ol li {
+    margin-bottom: 5px;
+}
+
+ol li::marker {
+    color: #fcbdbd;
+}
