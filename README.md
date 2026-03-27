@@ -7,8 +7,7 @@ File menjawab 2 soal
 - myprofile.html
 - style_myprofile.css
 - hasil
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b6592244-bc74-44d5-b994-cb7a0a0a92fc" />
-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/04fff552-d05f-45ed-b53c-769f5531b517" />
 
 File improve dari dua file sebelumnya
 - myprofile_2.html
